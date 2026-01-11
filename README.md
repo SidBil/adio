@@ -1,4 +1,4 @@
-# ADI/O: AI-Assisted Therapeutic Tool for Autism-Focused Reading Comprehension
+
 
 ## Overview
 
