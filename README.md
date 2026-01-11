@@ -1,4 +1,4 @@
-### ADI/O: An AI-Assisted Therapeutic Platform for Autism-Focused Reading Comprehension ###
+### ADI/O: An AI-Assisted Therapeutic Platform for Autism-Focused Reading Comprehension ### smorbulon
 
 ## Overview
 
